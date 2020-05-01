@@ -13,6 +13,14 @@ Git repository
 - Create navigation bar
 - Setup index page
 - Create and populate test data with fake users and posts in index.html for now
-
 ### Deliverables:
 Web page with navigation bar and posts with associated users
+## 3 Web Forms:
+- Add extension WTF 
+- Establish configuration options
+- Create a module to store web forms classes (forms.py)
+- Build login page
+### Deliverabes:
+app.config file that has a separate configuration class
+User login form with error message handling
+Add url_for functionality to minimize searching for URL replacement
