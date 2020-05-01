@@ -1,1 +1,1 @@
-FLASK_APP=
+FLASK_APP= microblog.py
