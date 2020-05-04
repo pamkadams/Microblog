@@ -24,3 +24,16 @@ Web page with navigation bar and posts with associated users
 app.config file that has a separate configuration class
 User login form with error message handling
 Add url_for functionality to minimize searching for URL replacement
+## 4 Database:
+- Add extensions:
+  1. Flask-SQLAlchemy (manage a database using entities e.g., classes, objects and methods instead of tables and SQL)
+  2. Flask-Migrate (database migration framework for SQLAlchemy to handle migration when db structure is modified)
+- Establish configuration options
+- Create a module to store web forms classes (forms.py)
+- Build login page
+### Deliverabes:
+app.config file that has a separate configuration class
+User login form with error message handling
+Add url_for functionality to minimize searching for URL replacement
+
+
