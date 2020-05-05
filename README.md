@@ -34,5 +34,7 @@ Add url_for functionality to minimize searching for URL replacement
 app.config file that has a separate configuration class
 User login form with error message handling
 Add url_for functionality to minimize searching for URL replacement
+## 5 User Login
+Use Werkzeug package to implement password hashing and Flask-Login to manage logged-in state.
 
 
