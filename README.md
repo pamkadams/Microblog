@@ -28,9 +28,8 @@ Add url_for functionality to minimize searching for URL replacement
 - Add extensions:
   1. Flask-SQLAlchemy (manage a database using entities e.g., classes, objects and methods instead of tables and SQL)
   2. Flask-Migrate (database migration framework for SQLAlchemy to handle migration when db structure is modified)
-- Establish configuration options
-- Create a module to store web forms classes (forms.py)
-- Build login page
+- Build a User table
+- Build a Post table with a foreign key (User id).
 ### Deliverabes:
 app.config file that has a separate configuration class
 User login form with error message handling
