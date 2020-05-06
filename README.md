@@ -36,5 +36,8 @@ User login form with error message handling
 Add url_for functionality to minimize searching for URL replacement
 ## 5 User Login
 Use Werkzeug package to implement password hashing and Flask-Login to manage logged-in state.
+## 6 User Profile Page
+Add user profiles to the application.
+
 
 
